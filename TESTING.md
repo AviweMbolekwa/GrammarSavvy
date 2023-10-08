@@ -30,19 +30,22 @@ I used the Lighthouse reports in Google Developer Tools to examine the pages of 
 - SEO
 ---
 ## A11y Color Contrast Accessibility Checker
+
 The website page was tested using the A11y Color Contrast Accessibility Checker and no automated colour contrast issues were found.
 ![Color Contrast Checker.](/assets/images/readme/colorvalidator.jpg)
 ---
 ## Browser Compatibility
+
 The site was tested in Google Chrome, Microsoft Edge and Mozilla Firefox on desktop.
 
 The site was tested in Google Chrome and Safari on mobile and tablet.
 
 No issues arose during browser testing. CSS transitions worked on all browsers tested.
 
-Appearance, functionality and responsiveness were largely consistent across browsers and devices. 
+- Appearance, functionality and responsiveness were largely consistent across browsers and devices. 
 ---
 ## Responsiveness
+
 Responsivity tests were carried out using Google Chrome DevTools. Device screen sizes covered include:
 
 - iPhone SE
