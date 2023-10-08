@@ -91,6 +91,6 @@ other reason.
 -   [W3 Schools](https://www.w3schools.com/howto/howto_css_switch.asp): As noted in the stylesheet  this code provided the basis of the code that I used to design and style the volume toggle bar. It is not too dissimilar from the default Bootstrap toggle switch, however, it is much easier to apply custom colours and styles.
 
 -   [Bananacoding](https://www.youtube.com/channel/UCXvIGbH6QsPJYtwzQvwhFyw): The code that I used to style and create the volume slider was inspired mainly from [this Youtube tutorial video](https://www.youtube.com/watch?v=BrpiNUf2XCk).
----
-### Acknowledgements
+  
+## Acknowledgements
 -   Close friends along the way who helped test and give advice.
